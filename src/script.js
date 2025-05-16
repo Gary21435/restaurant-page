@@ -1,6 +1,4 @@
-import { homePage } from "./home";
-import { menuPage } from "./menu";
-import { aboutPage } from "./about";
+import { homePage } from "./home.js";
 
 const homeBtn = document.querySelector("#home");
 const menuBtn = document.querySelector("#menu");
